@@ -1,4 +1,11 @@
 # Music_genre_classification_system
+In this project, a robust and accurate machine learning model for music genre classification is developed.
+Convolutional Neural Networks (CNNs) are utilized to analyze audio data, with a focus on Mel spectrograms,
+which are employed as visual representations of the audio's frequency content over time. By training the CNN
+on a labeled dataset of music tracks, patterns and features characteristic of diﬀerent genres are learned by
+the model. The ultimate goal is that new, unseen music tracks can be automatically categorized into their
+respective genres. A user-friendly Streamlit web application is further developed to facilitate the use of this
+trained model.
 
  ### About Project
                 Music has always been a universal language, yet understanding its intricate patterns and what differentiates one genre from another has been a challenge for decades. This project dives deep into the heart of sound analysis, aiming to uncover the unique characteristics that define different genres.
